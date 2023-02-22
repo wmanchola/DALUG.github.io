@@ -1,0 +1,41 @@
+{
+  "squadName" : "Escuadrón de Superhéroes",
+  "homeTown" : "Ciudad Metro",
+  "formed" : 2022,
+  "secretBase" : "Torre W",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Átomo",
+      "age" : 129,
+      "secretIdentity" : "Juan Perez",
+      "powers" : [
+        "Resistente a la radiación",
+        "Cambiar de tamaño",
+        "Disparos de Radiación"
+      ]
+    },
+    {
+      "name" : "Niña Gigante",
+      "age" : 339,
+      "secretIdentity" : "Lorena Rios",
+      "powers" : [
+        "Golpe de gravedad",
+        "Resistencia al daño",
+        "Reflejos superhumanos"
+      ]
+    },
+    {
+      "name" : "Señor Motosierra",
+      "age" : "Desconocida",
+      "secretIdentity" : "A.U.V",
+      "powers" : [
+        "Inmortal",
+        "Quitar fuerza vital de los demas",
+        "Infernal",
+        "Evasión",
+        "No ensuciarse"
+      ]
+    }
+  ]
+}
